@@ -128,6 +128,6 @@ docker run -p 5000:5000 aws_account_id.dkr.ecr.region.amazonaws.com/fast_api_app
 
 8. Obtenez l'adresse IP publique IPv4 à partir de la page des détails de l'instance et ajoutez le port 5000 lors de son lancement dans le navigateur
 
-## Épuisement des bases de données Postgres dans AWS
+## Déploiement des bases de données Postgres dans AWS
 
 Créer une base de données postgres dans le service AWS RDS
