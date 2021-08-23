@@ -80,7 +80,7 @@ aws_account_id.dkr.ecr.region.amazonaws.com/fast_api_app
 ```
 ### Déployer l'application FastAPI dans EC2
 
-Modifiez les paramètres de sécurité en ajoutant une règle en utilisant TCP personnalisé comme type et portez comme 5000 et cliquez sur examiner et lancer l'instance. Ces configurations sont nécessaires à l'exécution de notre application Web
+Modifiez les paramètres de sécurité en ajoutant une règle en utilisant TCP personnalisé comme type et 5000 en port et cliquez sur examiner et lancer l'instance. Ces configurations sont nécessaires à l'exécution de notre application Web
 
 1. Connectez-vous à l'instance ec2 à l'aide de la commande suivante
 
